@@ -44,9 +44,9 @@
 - [아이템 28. 배열보다는 리스트를 사용하라](https://www.notion.so/suaring/item-28-b0db019549dc4042a8acc3b88a176574)
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://www.notion.so/suaring/item-29-1878d8a5542746ec85ccc4670241c908)
 - [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://www.notion.so/suaring/item-30-6ee56ae562614a9093c8aa5361becb4c)
-- [아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라]()
-- [아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라]()
-- [아이템 33. 타입 안전 이종 컨테이너를 고려하라]()
+- [아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://www.notion.so/suaring/item-31-API-f6ace4a3c3c1425aad05e6bd7345607a)
+- [아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://www.notion.so/suaring/item-32-fba5cdc981ad4837b58c22ec332d01fe)
+- [아이템 33. 타입 안전 이종 컨테이너를 고려하라](https://www.notion.so/suaring/item-33-63f660a48e76461ca12f37ca2bb8df96)
 
 
 <br>
