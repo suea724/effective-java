@@ -52,14 +52,14 @@
 <br>
 
 ### 6장 열거 타입과 애너테이션
-- 아이템 34. int 상수 대신 열거 타입을 사용하라
-- 아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라
-- 아이템 36. 비트 필드 대신 EnumSet을 사용하라
-- 아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라
-- 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라
-- 아이템 39. 명명 패턴보다 애너테이션을 사용하라
-- 아이템 40. @Override 애너테이션을 일관되게 사용하라
-- 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라
+- [아이템 34. int 상수 대신 열거 타입을 사용하라](https://suaring.notion.site/Item-34-int-af1f885acc0546a48ae216530115e70a?pvs=4)
+- [아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://suaring.notion.site/Item-35-ordinal-219373397ccb42f08bc06032e4b96e49?pvs=4)
+- [아이템 36. 비트 필드 대신 EnumSet을 사용하라](https://suaring.notion.site/Item-36-EnumSet-f7d5b0ad7cdb4cdc92e0112845d74113?pvs=4)
+- [아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라](https://suaring.notion.site/Item-37-ordinal-EnumMap-4e5040d2bfdd48c28241f3858ed2fe2d?pvs=4)
+- [아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://suaring.notion.site/Item-38-72d6f2d95a18409aac2acfdc595ebf89?pvs=4)
+- [아이템 39. 명명 패턴보다 애너테이션을 사용하라](https://suaring.notion.site/Item-39-c2c307741fe94da6b94cb6fa13caaa9a?pvs=4)
+- [아이템 40. @Override 애너테이션을 일관되게 사용하라](https://suaring.notion.site/Item-40-Override-0abc318305c541abb8d39bf51a926db1?pvs=4)
+- [아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://suaring.notion.site/Item-41-489808be55b843e29314990b1a9b4be0?pvs=4)
 
 
 <br>
