@@ -68,8 +68,8 @@
 - [아이템 42. 익명 클래스보다는 람다를 사용하라](https://suaring.notion.site/Item-42-4af0b79dfb284373b5edd855828e5c9c?pvs=4)
 - [아이템 43. 람다보다는 메서드 참조를 사용하라](https://suaring.notion.site/Item-43-41e3e74e35e241c6875d5a5df197fd51?pvs=4)
 - [아이템 44. 표준 함수형 인터페이스를 사용하라](https://suaring.notion.site/Item-44-178aeca3606446dc8b288e07ff22689f?pvs=4)
-- [아이템 45. 스트림은 주의해서 사용하라]()
-- [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라]()
+- [아이템 45. 스트림은 주의해서 사용하라](https://suaring.notion.site/Item-45-a7c63c9ba9f84e3ebc4baa85175ddb7a?pvs=4)
+- [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](https://suaring.notion.site/Item-46-29de6a7eec88481abd484d0ffb829e86?pvs=4)
 - [아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다]()
 - [아이템 48. 스트림 병렬화는 주의해서 적용하라]()
 
