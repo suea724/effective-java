@@ -70,18 +70,18 @@
 - [아이템 44. 표준 함수형 인터페이스를 사용하라](https://suaring.notion.site/Item-44-178aeca3606446dc8b288e07ff22689f?pvs=4)
 - [아이템 45. 스트림은 주의해서 사용하라](https://suaring.notion.site/Item-45-a7c63c9ba9f84e3ebc4baa85175ddb7a?pvs=4)
 - [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](https://suaring.notion.site/Item-46-29de6a7eec88481abd484d0ffb829e86?pvs=4)
-- [아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다]()
-- [아이템 48. 스트림 병렬화는 주의해서 적용하라]()
+- [아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다](https://suaring.notion.site/Item-47-8d728537ad064de1843c9b5ee33ce81b?pvs=4)
+- [아이템 48. 스트림 병렬화는 주의해서 적용하라](https://suaring.notion.site/Item-48-2d3fa5450d8341d4981f5543102e0a26?pvs=4)
 
 
 <br>
 
 ### 8장 메서드
-- 아이템 49. 매개변수가 유효한지 검사하라
-- 아이템 50. 적시에 방어적 복사본을 만들라
-- 아이템 51. 메서드 시그니처를 신중히 설계하라
-- 아이템 52. 다중정의는 신중히 사용하라
-- 아이템 53. 가변인수는 신중히 사용하라
+- [아이템 49. 매개변수가 유효한지 검사하라](https://suaring.notion.site/Item-49-b03d5e964f994a51a5ab13dec53acc5c?pvs=4)
+- [아이템 50. 적시에 방어적 복사본을 만들라](https://suaring.notion.site/Item-50-5d5b9bb708ac4edcbcf057e8a518038d?pvs=4)
+- [아이템 51. 메서드 시그니처를 신중히 설계하라](https://suaring.notion.site/Item-51-8e00496af74b4725883e1e7ce17295e4?pvs=4)
+- [아이템 52. 다중정의는 신중히 사용하라](https://suaring.notion.site/Item-52-0bc17a742a1a4c85985fd17b8a2a4c31?pvs=4)
+- [아이템 53. 가변인수는 신중히 사용하라](https://suaring.notion.site/Item-53-d5db7e859ad24be8a9e5bf07b106d432?pvs=4)
 - 아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라
 - 아이템 55. 옵셔널 반환은 신중히 하라
 - 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라
