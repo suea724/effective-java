@@ -82,9 +82,9 @@
 - [아이템 51. 메서드 시그니처를 신중히 설계하라](https://suaring.notion.site/Item-51-8e00496af74b4725883e1e7ce17295e4?pvs=4)
 - [아이템 52. 다중정의는 신중히 사용하라](https://suaring.notion.site/Item-52-0bc17a742a1a4c85985fd17b8a2a4c31?pvs=4)
 - [아이템 53. 가변인수는 신중히 사용하라](https://suaring.notion.site/Item-53-d5db7e859ad24be8a9e5bf07b106d432?pvs=4)
-- 아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라
-- 아이템 55. 옵셔널 반환은 신중히 하라
-- 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라
+- [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://suaring.notion.site/Item-54-null-01773440c31742ba9b022e7aedecaa57?pvs=4)
+- [아이템 55. 옵셔널 반환은 신중히 하라](https://suaring.notion.site/Item-55-86bc0bee3e1145c3a8118c66a1e734ab?pvs=4)
+- [아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://suaring.notion.site/Item-56-API-19c7e2374c3a4620bd5a880990482a84?pvs=4)
 
 
 <br>
