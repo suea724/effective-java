@@ -90,18 +90,18 @@
 <br>
 
 ### 9장 일반적인 프로그래밍 원칙
-- 아이템 57. 지역변수의 범위를 최소화하라
-- 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라
-- 아이템 59. 라이브러리를 익히고 사용하라
-- 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라
-- 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라
-- 아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라
-- 아이템 63. 문자열 연결은 느리니 주의하라
-- 아이템 64. 객체는 인터페이스를 사용해 참조하라
-- 아이템 65. 리플렉션보다는 인터페이스를 사용하라
-- 아이템 66. 네이티브 메서드는 신중히 사용하라
-- 아이템 67. 최적화는 신중히 하라
-- 아이템 68. 일반적으로 통용되는 명명 규칙을 따르라
+- [아이템 57. 지역변수의 범위를 최소화하라](https://suaring.notion.site/Item-57-cb5107c42bc643159b78cdd749687893?pvs=4)
+- [아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라](https://suaring.notion.site/Item-58-for-for-each-d36d178c31eb4375b649441367b60bc5?pvs=4)
+- [아이템 59. 라이브러리를 익히고 사용하라](https://suaring.notion.site/Item-59-eabcf2c76f5942c0a8aee695fd6e4f78?pvs=4)
+- [아이템 60. 정확한 답이 필요하다면 float와 double은 피하라](https://suaring.notion.site/Item-60-float-double-d0b0e010915546b081dbbbdff486f9e7?pvs=4)
+- [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라](https://suaring.notion.site/Item-61-178ade97f11a4e63aeffe62f30431882?pvs=4)
+- [아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라](https://suaring.notion.site/Item-62-2cc5b27969634b49b42411e78db9a6bd?pvs=4)
+- [아이템 63. 문자열 연결은 느리니 주의하라](https://suaring.notion.site/Item-63-8f2c564f0ee844efbbf4d56bbb5b1bf6?pvs=4)
+- [아이템 64. 객체는 인터페이스를 사용해 참조하라](https://suaring.notion.site/Item-64-56c6a236f2cc4ae28543323d7af78a55?pvs=4)
+- [아이템 65. 리플렉션보다는 인터페이스를 사용하라](https://suaring.notion.site/Item-65-283802e5e83a40949ff298a8b546fc8e?pvs=4)
+- [아이템 66. 네이티브 메서드는 신중히 사용하라](https://suaring.notion.site/Item-66-16ab2b1a07794f17be00d3f4ea400685?pvs=4)
+- [아이템 67. 최적화는 신중히 하라](https://suaring.notion.site/Item-67-a440dd57cb1b4b4db3e06e4feda9fc70?pvs=4)
+- [아이템 68. 일반적으로 통용되는 명명 규칙을 따르라](https://suaring.notion.site/Item-68-4ea82a3bd3ca4965872f7b7467691f89?pvs=4)
 
 
 <br>
